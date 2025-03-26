@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 256 193.4">
+  <!-- Generator: Adobe Illustrator 29.3.1, SVG Export Plug-In . SVG Version: 2.1.0 Build 151)  -->
+  <defs>
+    <style>
+      .st0 {
+        font-family: Arial-BoldMT, Arial;
+        font-size: 72px;
+        font-weight: 700;
+      }
+
+      .st1 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="st1" x="15.7" y="72.6" width="224" height="115.8"/>
+  <path d="M181,67.2V0h-106v67.2H9.7v126.3h236.6v-126.3h-65.2ZM235.3,182.5H20.7v-104.3h214.6v104.3Z"/>
+  <text class="st0" transform="translate(42 157.6)"><tspan x="0" y="0">WTG</tspan></text>
+</svg>
